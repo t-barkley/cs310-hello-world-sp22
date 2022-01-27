@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Victoria Barkley
  */
 
 public class Class2 {
